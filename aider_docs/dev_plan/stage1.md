@@ -25,7 +25,6 @@
 - Activate the virtual environment.
 - Install core libraries: `pip install vedo numpy`
 - Install testing framework: `pip install pytest`
-- Freeze dependencies: `pip freeze > requirements.txt`.
 ### 4. **Basic Application Entry Point:**
 - In `src/robot_visualizer/main.py`, write minimal code to import `vedo`.
 - Create a main function or script block that initializes a `vedo.Plotter`.
